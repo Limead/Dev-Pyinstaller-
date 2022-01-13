@@ -86,8 +86,9 @@ PyQt5 모듈을 이용하여 원하는 Gui 형태로 툴을 개발 할 수 있�
 
 ---
 
-아래 스크립트를 작성한 뒤 pyinstaller를 이용해 간단하게 점심을 랜덤으로 3개까지 추천해주는 프로그램(exe파일)을 개발하였습니다.\
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fb2f153-8c40-4bb1-8062-7fbe4f7cbc45/Untitled.png)
+스크립트를 작성한 뒤 pyinstaller를 이용해 간단하게 점심을 랜덤으로 3개까지 추천해주는 프로그램(exe파일)을 개발하였습니다.\
+![image](https://user-images.githubusercontent.com/97657857/149314850-a591d287-c571-45a4-8af9-5fbcaedd253b.png)
+
 
 # 🌈 Reference
 
